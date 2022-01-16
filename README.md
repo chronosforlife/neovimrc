@@ -1,0 +1,2 @@
+# neovimrc
+neovim config
